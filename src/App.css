@@ -1,0 +1,23 @@
+
+
+.App {
+  text-align: center;
+  padding: 20px;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f9fa;
+  min-height: 100vh;
+}
+
+
+
+.grid-size {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.grid-size input {
+  width: 60px;
+  margin-left: 10px;
+}
